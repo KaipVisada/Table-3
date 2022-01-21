@@ -1,0 +1,33 @@
+
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    font-family: Verdana, italic;
+    font-size: 25px;
+    width: 700px;
+    color: black;
+    text-transform: capitalize;
+}
+th, td {
+    text-align: left;
+    padding: 10px;
+    border: 2.5px solid black;
+}
+thead {
+    border: 3px solid black;
+    background: white;
+    text-transform: capitalize;  
+}
+.orange{
+    background:#fea500;
+    color: white;
+}
+.blue{
+    background:#4d4dfa;
+    color: white;
+}
+.green{
+    background:#14c33c;
+    color: white;
+}
+
